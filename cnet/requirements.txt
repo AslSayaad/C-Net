@@ -1,0 +1,6 @@
+# C-Net dependencies. Install with:
+#   pip install -r cnet/requirements.txt
+#
+# Deliberately tiny — everything else is Python's standard library so you can
+# read the whole project without chasing frameworks.
+anthropic>=0.70.0

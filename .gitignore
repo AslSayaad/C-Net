@@ -2,3 +2,8 @@
 __pycache__/
 data*/
 default/*
+
+# C-Net
+.env
+.cnet/
+cnet-workspace/
