@@ -1,7 +1,0 @@
-pandas
-requests
-#scikit-learn
-selenium
-setuptools
-#stock-indicators
-undetected-chromedriver
